@@ -1,1 +1,0 @@
-# payara-test
